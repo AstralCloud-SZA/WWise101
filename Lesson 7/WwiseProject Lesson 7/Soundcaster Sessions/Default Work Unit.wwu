@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4B171809-A1BF-486E-A442-DBF6B9DB3CD7}" SchemaVersion="103">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{4B171809-A1BF-486E-A442-DBF6B9DB3CD7}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Player" ID="{E92FD8BB-6E97-4243-94B2-A75CF2D97E84}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Defeated_Player" ID="{53536978-75D5-48D0-B19B-210DC5361B10}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Fire_Staff_Player" ID="{EE3AB00B-A436-4365-8215-7185F8B4D03D}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Fire_FireGem_Player" ID="{4A9272CB-4C58-469C-BA1B-6A95E1475CEE}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="0" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Foot_Player" ID="{4511782C-77A5-4EC7-B86F-1A914C7395DB}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Fire_PoisonGem_Player" ID="{3DE022E6-67F2-4A8C-B0AE-FF37FACE2FE9}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="End_FireGem_Player" ID="{D57BEA68-2E9F-4461-9425-917795490C71}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="1" Y="2"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Fire_IceGem_Player" ID="{DF884660-E441-4668-A578-E858343B93FB}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Fire_LightningGem_Player" ID="{B118C846-194F-45D0-96AC-1836892024CF}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Hit_FireGem_Player" ID="{01F48F0E-4D5B-444C-A044-795C96BD1D58}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="2" Y="2"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="MusicVolume" ID="{12A86CFA-9D0B-438E-8C88-ACE03D5EF5F5}"/>
+							<Value>255</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="VoiceVolume" ID="{1BC7160B-65AB-47A5-9D7E-CF39A0FF4D2A}"/>
+							<Value>255</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="SFXVolume" ID="{9A7FE12B-15B9-4CBD-85BC-730450CE68B2}"/>
+							<Value>255</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="PlayerHealth" ID="{B1BC4BE3-DED0-4EF1-89E0-83D78E80839C}"/>
+							<Value>100</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Defeated" ID="{88957439-75EF-4388-B7D5-C80FBE8EE054}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Left" ID="{AB05A8F3-EDB5-4706-9091-48CBB0549E6F}"/>
+						<CurrentSwitchRef Name="Concrete" ID="{0BFD2921-C3B4-4EF0-A3A5-BDAA47C94487}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+				<SoundcasterSession Name="Fire Gem" ID="{68879E67-9AD2-420C-AF74-309CAC789355}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Fire_FireGem_Player" ID="{4A9272CB-4C58-469C-BA1B-6A95E1475CEE}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="FireGem Explode" ID="{5018B122-4A4A-4DA6-931A-93400D14A50F}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="End_FireGem_Player" ID="{D57BEA68-2E9F-4461-9425-917795490C71}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="FireGem Blast" ID="{8287EDC0-EE70-420D-8AD2-3821B584D8A6}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+							<Position X="1" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Hit_FireGem_Player" ID="{01F48F0E-4D5B-444C-A044-795C96BD1D58}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}"/>
+							<Position X="2" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="FireGem_Flight" ID="{A6351FF0-D488-4DA8-8131-56A07AAE0E97}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+							<Position X="2" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="FireGem Magic" ID="{7AF3F701-0F83-411C-BD88-8FEF0FFC2E07}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+							<Position X="3" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="MusicVolume" ID="{12A86CFA-9D0B-438E-8C88-ACE03D5EF5F5}"/>
+							<Value>255</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="VoiceVolume" ID="{1BC7160B-65AB-47A5-9D7E-CF39A0FF4D2A}"/>
+							<Value>255</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="SFXVolume" ID="{9A7FE12B-15B9-4CBD-85BC-730450CE68B2}"/>
+							<Value>255</Value>
+						</RTPCValue>
+						<RTPCValue>
+							<GameParameterRef Name="PlayerHealth" ID="{B1BC4BE3-DED0-4EF1-89E0-83D78E80839C}"/>
+							<Value>100</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Left" ID="{AB05A8F3-EDB5-4706-9091-48CBB0549E6F}"/>
+						<CurrentSwitchRef Name="Concrete" ID="{0BFD2921-C3B4-4EF0-A3A5-BDAA47C94487}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

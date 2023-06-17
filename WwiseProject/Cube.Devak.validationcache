@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="110">
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Triggers\Music.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Switches\Music.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Switches\Default Work Unit.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\States\Music.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\States\Default Work Unit.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Queries\Default Work Unit.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Presets\Default Work Unit.wwu" DateLow="1686174873" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Interactive Music Hierarchy\Music.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Game Parameters\Music.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Events\Music.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Events\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Effects\Factory Effects.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Effects\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Cube.wproj" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Attenuations\My Cube.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Actor-Mixer Hierarchy\Music.wwu" DateLow="1686174850" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1686174850" DateHigh="0"/>
+</ValidationCache>

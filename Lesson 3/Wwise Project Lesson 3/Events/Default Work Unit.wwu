@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Fire_IceGem_Player" ID="{B0E096F0-EA68-40DB-9417-D238E2DD13C8}">
+					<ChildrenList>
+						<Action Name="" ID="{712A57F5-9280-4F21-BCD9-B6DA3CCC72F0}" ShortID="776216439">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="IceGem_Blast" ID="{46A8DD12-AC15-4FC9-92E1-9A4150EDA7E6}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{DCB3EB23-5382-4E57-9F9E-122663597188}" ShortID="880640997">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="0.7"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gem_Recharge_Magic" ID="{17E66EFD-A279-4B7B-81A6-4FA2ECB19932}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{40852BBC-2A47-4F6F-B495-F3194FDB2824}" ShortID="603930985">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gem_Recharge_Woosh" ID="{27DE8A48-C16A-4F36-A32F-4BA567260C73}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E61C936A-F5B1-41FE-97E5-91B0E984713D}" ShortID="492057890">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+								<Property Name="Delay" Type="Real64" Value="0.4">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{395FF37B-E4ED-4097-9F7B-BBA09B4E4319}">
+												<PropertyList>
+													<Property Name="Max" Type="Real64" Value="0.3"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gem Drop" ID="{2786DA73-0933-4041-94ED-52CB48AF71F6}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F10B222B-2801-430A-B717-538AC6BBF93D}" SchemaVersion="103">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{F10B222B-2801-430A-B717-538AC6BBF93D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<PropertyList>
+						<Property Name="CenterPercentage" Type="int32">
+							<ValueList>
+								<Value>100</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{1D039079-C7CA-4134-BFC1-77C93C2E0C72}" WorkUnitID="{2308BA75-32C2-4D84-90BF-1950311561CF}"/>
+						</Reference>
+						<Reference Name="Effect0">
+							<Custom>
+								<Effect Name="Default (Custom)" ID="{77ABBB6F-F11D-404D-BA9E-72BAE2B8D811}" ShortID="953188324" PluginName="Wwise Peak Limiter" CompanyID="0" PluginID="110" PluginType="3">
+									<PropertyList>
+										<Property Name="LookAhead" Type="Real32" Value="0.001"/>
+										<Property Name="OutputGain" Type="Real32" Value="4"/>
+										<Property Name="Ratio" Type="Real32" Value="8"/>
+										<Property Name="Threshold" Type="Real32" Value="-6"/>
+									</PropertyList>
+								</Effect>
+							</Custom>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Environmental" ID="{03FFB125-26D5-4A9C-8F9D-EB66ECB1B4F3}">
+							<PropertyList>
+								<Property Name="CenterPercentage" Type="int32">
+									<ValueList>
+										<Value>100</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ChildrenList>
+								<Bus Name="SFX" ID="{151C0E6C-362D-488B-86D0-E49251035307}">
+									<PropertyList>
+										<Property Name="CenterPercentage" Type="int32">
+											<ValueList>
+												<Value>100</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ChildrenList>
+										<Bus Name="Items" ID="{D14EF839-EFDF-409C-90F9-9A5A54CC9E68}">
+											<PropertyList>
+												<Property Name="CenterPercentage" Type="int32">
+													<ValueList>
+														<Value>100</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ObjectLists/>
+										</Bus>
+										<Bus Name="Main Character" ID="{07135C75-97AF-4EF9-8EDC-7B9585BE8B73}">
+											<PropertyList>
+												<Property Name="CenterPercentage" Type="int32">
+													<ValueList>
+														<Value>100</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ObjectLists/>
+										</Bus>
+										<Bus Name="Monsters" ID="{81EEE640-C234-4F9A-8535-FF164709AD95}">
+											<PropertyList>
+												<Property Name="CenterPercentage" Type="int32">
+													<ValueList>
+														<Value>100</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ObjectLists/>
+										</Bus>
+										<Bus Name="Magic" ID="{ACE33DD1-7E1E-4140-BD1C-FC1F438F0788}">
+											<PropertyList>
+												<Property Name="CenterPercentage" Type="int32">
+													<ValueList>
+														<Value>100</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ObjectLists/>
+										</Bus>
+									</ChildrenList>
+									<ObjectLists/>
+								</Bus>
+								<Bus Name="Environments" ID="{947D2509-C601-43DB-9207-5CF7A3A7CD42}">
+									<PropertyList>
+										<Property Name="CenterPercentage" Type="int32">
+											<ValueList>
+												<Value>100</Value>
+											</ValueList>
+										</Property>
+									</PropertyList>
+									<ChildrenList>
+										<AuxBus Name="env_corridor" ID="{65A82852-46E5-4CFF-A5D4-33D858E35BDA}">
+											<PropertyList>
+												<Property Name="CenterPercentage" Type="int32">
+													<ValueList>
+														<Value>100</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Effect0" CompanyID="4095" PluginID="65535" PluginType="15">
+													<ObjectRef Name="env_corridor" ID="{808425F6-DB52-49DE-9065-29C6522016B5}" WorkUnitID="{B551A526-C182-49CB-8C01-F622AB4C4CC9}"/>
+												</Reference>
+											</ReferenceList>
+											<ObjectLists/>
+										</AuxBus>
+										<AuxBus Name="env_large_room" ID="{03D09086-D212-4402-95E0-0E0223E8D6F8}">
+											<PropertyList>
+												<Property Name="CenterPercentage" Type="int32">
+													<ValueList>
+														<Value>100</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+													<ObjectRef Name="env_large_room" ID="{CF56C24A-C059-4A8C-A098-A2017B53C9CD}" WorkUnitID="{B551A526-C182-49CB-8C01-F622AB4C4CC9}"/>
+												</Reference>
+											</ReferenceList>
+											<ObjectLists/>
+										</AuxBus>
+										<AuxBus Name="env_medium_room" ID="{37A49D6B-E571-48DB-ACFA-DB33C2E212C9}">
+											<PropertyList>
+												<Property Name="CenterPercentage" Type="int32">
+													<ValueList>
+														<Value>100</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+													<ObjectRef Name="env_medium_room" ID="{ADEC4D35-7E5C-4078-995B-414C6DECFCD0}" WorkUnitID="{B551A526-C182-49CB-8C01-F622AB4C4CC9}"/>
+												</Reference>
+											</ReferenceList>
+											<ObjectLists/>
+										</AuxBus>
+										<AuxBus Name="env_small_room" ID="{AC752BE7-3212-4EAB-8D15-157862EDF5ED}">
+											<PropertyList>
+												<Property Name="CenterPercentage" Type="int32">
+													<ValueList>
+														<Value>100</Value>
+													</ValueList>
+												</Property>
+											</PropertyList>
+											<ReferenceList>
+												<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+													<ObjectRef Name="env_small_room" ID="{FD1E8B13-0E4F-4BCF-9021-37A314F54CD5}" WorkUnitID="{B551A526-C182-49CB-8C01-F622AB4C4CC9}"/>
+												</Reference>
+											</ReferenceList>
+											<ObjectLists/>
+										</AuxBus>
+									</ChildrenList>
+									<ObjectLists/>
+								</Bus>
+								<Bus Name="Voice" ID="{5C9F83F2-289E-4824-9BC9-6CD3FFFF62A2}">
+									<PropertyList>
+										<Property Name="CenterPercentage" Type="int32">
+											<ValueList>
+												<Value>100</Value>
+											</ValueList>
+										</Property>
+										<Property Name="RecoveryTime" Type="Real64" Value="0"/>
+									</PropertyList>
+									<ObjectLists/>
+									<DuckingList>
+										<DuckItem>
+											<BusRef Name="SFX" ID="{151C0E6C-362D-488B-86D0-E49251035307}"/>
+											<DuckingParam>
+												<Volume>-8</Volume>
+												<FadeInTime>0.200000002980232</FadeInTime>
+												<FadeOutTime>0.400000005960464</FadeOutTime>
+												<FadeCurve>FadeLog2</FadeCurve>
+											</DuckingParam>
+										</DuckItem>
+									</DuckingList>
+								</Bus>
+							</ChildrenList>
+							<ObjectLists/>
+						</Bus>
+					</ChildrenList>
+					<ObjectLists/>
+				</Bus>
+				<Bus Name="Master Secondary Bus" ID="{D2E0BC7E-7B3F-4FFE-A670-FAE02761B631}">
+					<PropertyList>
+						<Property Name="CenterPercentage" Type="int32">
+							<ValueList>
+								<Value>100</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{1D039079-C7CA-4134-BFC1-77C93C2E0C72}" WorkUnitID="{2308BA75-32C2-4D84-90BF-1950311561CF}"/>
+						</Reference>
+					</ReferenceList>
+					<ObjectLists/>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

@@ -1,0 +1,29 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=733558
+	// for the documentation about the tasks.json format
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build",
+			"type": "shell",
+			"command": "msbuild",
+			"args": [
+				"${workspaceRoot}\\AllCube.sln",
+				"/property:Configuration=Debug",
+				"/property:GenerateFullPaths=true",
+				"/consoleloggerparameters:ForceNoAlign;Summary",
+				"/verbosity:minimal",
+				"/maxcpucount",
+				"/target:build"
+			],
+			"problemMatcher": "$msCompile",
+			"presentation": {
+				"reveal": "always"
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}

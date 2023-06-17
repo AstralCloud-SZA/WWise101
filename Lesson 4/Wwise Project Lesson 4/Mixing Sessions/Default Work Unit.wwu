@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A71FA2BB-4B59-480B-A3A2-A5D3F2DDC76D}" SchemaVersion="103">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{A71FA2BB-4B59-480B-A3A2-A5D3F2DDC76D}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="Bus Master" ID="{0F403195-8C2C-49B2-8DD4-8DC89888D8DB}">
+					<ObjectList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+						<ObjectRef Name="Environmental" ID="{03FFB125-26D5-4A9C-8F9D-EB66ECB1B4F3}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+						<ObjectRef Name="SFX" ID="{151C0E6C-362D-488B-86D0-E49251035307}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+						<ObjectRef Name="env_corridor" ID="{65A82852-46E5-4CFF-A5D4-33D858E35BDA}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

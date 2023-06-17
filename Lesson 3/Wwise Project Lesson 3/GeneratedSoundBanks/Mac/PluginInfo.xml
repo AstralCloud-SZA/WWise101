@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="Lesson 3" Platform="Mac" BasePlatform="Mac">
+	<Plugins>
+		<Plugin Name="Wwise Silence" ID="6619138" DLL="AkSilenceGenerator" StaticLib="AkSilenceSource"/>
+		<Plugin Name="Wwise Compressor" ID="7077891" DLL="AkCompressor" StaticLib="AkCompressorFX"/>
+		<Plugin Name="Wwise Peak Limiter" ID="7208963" DLL="AkPeakLimiter" StaticLib="AkPeakLimiterFX"/>
+		<Plugin Name="Wwise Matrix Reverb" ID="7536643" DLL="AkMatrixReverb" StaticLib="AkMatrixReverbFX"/>
+		<Plugin Name="Wwise RoomVerb" ID="7733251" DLL="AkRoomVerb" StaticLib="AkRoomVerbFX"/>
+		<Plugin Name="Wwise Meter" ID="8454147" DLL="AkSoundEngineDLL" StaticLib="AkMeterFX"/>
+		<Plugin Name="Wwise Gain" ID="9109507" DLL="AkGain" StaticLib="AkGainFX"/>
+		<Plugin Name="System" ID="11403271"/>
+		<Plugin Name="No Output" ID="11862023"/>
+	</Plugins>
+</PluginInfo>

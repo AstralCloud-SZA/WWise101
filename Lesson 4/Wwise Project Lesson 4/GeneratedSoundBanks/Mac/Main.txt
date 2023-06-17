@@ -1,0 +1,62 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1758594367	Map_Loaded			\Default Work Unit\Map_Loaded	
+	1894362767	Foot_Player			\Default Work Unit\Foot_Player	
+	2390793602	Fire_IceGem_Player			\Default Work Unit\Fire_IceGem_Player	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	803837735	Sand	Material			
+	841620460	Concrete	Material			
+	1216965916	Stone	Material			
+	2058049674	Wood	Material			
+	2185786256	Gravel	Material			
+	2473969246	Metal	Material			
+	2637588553	Tile	Material			
+	2654748154	Water	Material			
+	4248645337	Grass	Material			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	444815956	PlayerLife			\Default Work Unit\PlayerLife	
+
+State	ID	Name	State Group			Notes
+	655265632	Alive	PlayerLife			
+	748895195	None	PlayerLife			
+	2791675679	Defeated	PlayerLife			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	20349345	Defeated	PlayerLife	\Actor-Mixer Hierarchy\Default Work Unit\Heartbeat		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	151362964	PlayerHealth			\Default Work Unit\PlayerHealth	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	801144585	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	198101	Gem_Recharge_Magic	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gem_Recharge_1942EE23.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem_Recharge_Magic		149158
+	14726578	FS_Concrete_02	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Concrete\FS_Concrete_02_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Concrete\FS_Concrete_02		55016
+	15275673	Gem_Breaking-03	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gems Breaking\Gem_Breaking-03_60BD055F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Gem Head\Gem_Breaking-03		10638
+	79949442	FS_Concrete_01	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Concrete\FS_Concrete_01_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Concrete\FS_Concrete_01		42920
+	87546151	FS_Dirt_01	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Dirt\FS_Dirt_01_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\FS_Dirt_01		43842
+	138762720	Gem_Breaking-04	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gems Breaking\Gem_Breaking-04_E48C9732.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Gem Tail\Gem_Breaking-04		71196
+	148212188	FS_Tile_02	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Tile\FS_Tile_02_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Tile\FS_Tile_02		53668
+	152536550	Gem_Breaking-02	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gems Breaking\Gem_Breaking-02_3276D17B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Gem Tail\Gem_Breaking-02		59244
+	222884643	Gem_Breaking-01	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gems Breaking\Gem_Breaking-01_BF4B1B7D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Gem Tail\Gem_Breaking-01		49836
+	287616262	FS_Tile_03	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Tile\FS_Tile_03_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Tile\FS_Tile_03		58540
+	359508632	FS_Tile_01	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Tile\FS_Tile_01_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Tile\FS_Tile_01		37506
+	417793194	FS_Dirt_03	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Dirt\FS_Dirt_03_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\FS_Dirt_03		75860
+	424049186	Gem_Breaking-03	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gems Breaking\Gem_Breaking-03_28E96037.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Gem Tail\Gem_Breaking-03		75522
+	448116896	Gem_Breaking-01	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gems Breaking\Gem_Breaking-01_F10C2B92.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Gem Head\Gem_Breaking-01		12692
+	516058495	FS_Gravel_01	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Gravel\FS_Gravel_01_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Gravel\FS_Gravel_01		42974
+	517589665	FS_Dirt_02	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Dirt\FS_Dirt_02_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Dirt\FS_Dirt_02		75860
+	634094459	Heartbeat	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Heartbeat_EB99AFE5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Heartbeat		93430
+	763245074	FS_Gravel_03	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Gravel\FS_Gravel_03_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Gravel\FS_Gravel_03		48216
+	803525662	Gem_Breaking-02	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gems Breaking\Gem_Breaking-02_C97908E4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Gem Head\Gem_Breaking-02		8686
+	828006734	Gem_Breaking-04	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gems Breaking\Gem_Breaking-04_0C67D429.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem Drop\Gem Head\Gem_Breaking-04		11232
+	842736824	Gem_Recharge_Woosh	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Gem_Recharge_5AABDAA0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gem_Recharge_Woosh		129786
+	849118029	FS_Gravel_02	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Gravel\FS_Gravel_02_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Gravel\FS_Gravel_02		34166
+	1031012034	FS_Concrete_03	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\Footsteps\Concrete\FS_Concrete_03_EDE324F7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Concrete\FS_Concrete_03		63486
+	1071749337	IceGem_Blast	D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\SFX\IceGem_Blast_F00644E1.wem		\Actor-Mixer Hierarchy\Default Work Unit\IceGem_Blast		24645
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="wwise101_Lesson 1" GUID="{363EF3C5-F697-460C-B63E-E3242434653E}" Generator="2022.1.4.8202"/>
+	<CacheRoot>../.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Windows" GUID="{8E8B2B33-ABAA-4ED0-9425-F9CC3998ABFE}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../cube/soundbanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{309BD3CD-A503-4AA0-B92E-7C9E56BA89EE}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{02850488-79D8-6C3F-21E9-77079FFEE440}</FileHash>
+</ProjectInfo>

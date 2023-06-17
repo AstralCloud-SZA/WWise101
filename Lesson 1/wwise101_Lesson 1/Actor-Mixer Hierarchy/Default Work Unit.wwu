@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E53357D8-C68F-4E75-92AA-87BB0AED4633}" SchemaVersion="110">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{E53357D8-C68F-4E75-92AA-87BB0AED4633}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="IceGem_Blast" ID="{1F46F098-7A27-4365-9EED-552CFF67798E}" ShortID="851500570">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>-450</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{59DBED9D-F5D9-4346-A935-8874A9D721F6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6C8D50DF-9332-4041-BBA0-0CC7628B7E9A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="IceGem_Blast" ID="{953BC28F-C3A5-413B-B2A6-193E247F4E71}">
+							<Language>SFX</Language>
+							<AudioFile>IceGem_Blast.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="381276477"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="IceGem_Blast" ID="{953BC28F-C3A5-413B-B2A6-193E247F4E71}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9D443419-4C0F-4177-9A8C-5AE9164B1D27}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{9D443419-4C0F-4177-9A8C-5AE9164B1D27}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{929C4B72-CD34-4E1B-B1ED-32E38D71BB27}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Fire_IceGem_Player" ID="{B0E096F0-EA68-40DB-9417-D238E2DD13C8}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Map_Loaded" ID="{96704287-1E66-4399-A186-76231D35C5CF}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Foot_Player" ID="{ACF10038-1A15-4686-AA16-4F47FEC175E1}" WorkUnitID="{27ACFC61-8688-482D-A1F6-F21654EA4BDE}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

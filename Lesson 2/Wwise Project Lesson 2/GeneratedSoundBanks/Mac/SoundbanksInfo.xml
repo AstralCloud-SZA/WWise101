@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 2\Lesson 2\</ProjectRoot>
+		<SourceFilesRoot>D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 2\Lesson 2\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 2\Lesson 2\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 2\cube\soundbanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1763268342">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="194525819" Name="env_corridor" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental\Environments\env_corridor"/>
+				<AuxBus Id="783969252" Name="env_small_room" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental\Environments\env_small_room"/>
+				<AuxBus Id="3877888880" Name="env_large_room" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental\Environments\env_large_room"/>
+				<AuxBus Id="4102571502" Name="env_medium_room" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental\Environments\env_medium_room"/>
+			</IncludedAuxBusses>
+			<GameParameters>
+				<GameParameter Id="151362964" Name="PlayerHealth" ObjectPath="\Game Parameters\Default Work Unit\PlayerHealth"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="595856023">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2390793602" Name="Fire_IceGem_Player" ObjectPath="\Events\Default Work Unit\Fire_IceGem_Player">
+					<IncludedMemoryFiles>
+						<File Id="1071749337" Language="SFX">
+							<ShortName>IceGem_Blast.wav</ShortName>
+							<Path>SFX\IceGem_Blast_F00644E1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

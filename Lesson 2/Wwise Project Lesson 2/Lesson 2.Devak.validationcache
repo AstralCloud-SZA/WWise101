@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="110">
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Virtual Acoustics\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Triggers\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Switches\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\States\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\SoundBanks\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Queries\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Presets\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Modulators\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Mixing Sessions\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Metadata\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Lesson 2.wproj" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Game Parameters\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Events\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Effects\Factory Effects.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Effects\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Conversion Settings\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Control Surface Sessions\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Audio Devices\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Attenuations\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Lesson 2\Wwise Project Lesson 2\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1686914578" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Virtual Acoustics\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Triggers\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Switches\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\States\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\SoundBanks\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Queries\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Presets\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Modulators\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Mixing Sessions\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Metadata\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Lesson 2.wproj" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Lesson 2.Devak.wsettings" DateLow="1686994921" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Game Parameters\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Events\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Effects\Factory Effects.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Effects\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Conversion Settings\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Control Surface Sessions\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Audio Devices\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Attenuations\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Program Files (x86)\Audiokinetic\Wwise 2022.1.4.8202\Cube\Cube Lesson REPO\WWise101\Lesson 2\Wwise Project Lesson 2\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1686914579" DateHigh="0"/>
+</ValidationCache>

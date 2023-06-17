@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A71FA2BB-4B59-480B-A3A2-A5D3F2DDC76D}" SchemaVersion="103">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{A71FA2BB-4B59-480B-A3A2-A5D3F2DDC76D}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="Fire Gem" ID="{EA54D5FE-2B92-474A-849A-01946F68F0C7}">
+					<ObjectList>
+						<ObjectRef Name="FireGem_Flight" ID="{A6351FF0-D488-4DA8-8131-56A07AAE0E97}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+						<ObjectRef Name="FireGem Magic" ID="{7AF3F701-0F83-411C-BD88-8FEF0FFC2E07}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+						<ObjectRef Name="FireGem Blast" ID="{8287EDC0-EE70-420D-8AD2-3821B584D8A6}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+						<ObjectRef Name="FireGem Explode" ID="{5018B122-4A4A-4DA6-931A-93400D14A50F}" WorkUnitID="{8D65CABB-7643-4775-8C45-3B7F325D73EF}"/>
+						<ObjectRef Name="Environmental" ID="{B96EFBC3-86AA-480D-96B8-BB3A2D8EEABA}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+					</ObjectList>
+				</MixingSession>
+				<MixingSession Name="Bus Masters" ID="{BCFBC6C1-BB3D-405A-A044-B053D15058FE}">
+					<ObjectList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+						<ObjectRef Name="Environmental" ID="{B96EFBC3-86AA-480D-96B8-BB3A2D8EEABA}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+						<ObjectRef Name="SFX" ID="{FEAFA566-F965-4AD8-9E6D-D98047F219DF}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+						<ObjectRef Name="env_corridor" ID="{7F33D9B1-01AE-428C-8231-0059A4B0F8F3}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+						<ObjectRef Name="Music" ID="{B490EE34-359E-4C0A-A0C8-154632F37253}" WorkUnitID="{F10B222B-2801-430A-B717-538AC6BBF93D}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

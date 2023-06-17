@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\</ProjectRoot>
+		<SourceFilesRoot>D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\Lesson 3\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Program Files\Wwise 2021.1.0.7554\Cube\Wwise-101\Lesson 3\cube\soundbanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="1266078272">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="194525819" Name="env_corridor" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental\Environments\env_corridor"/>
+				<AuxBus Id="783969252" Name="env_small_room" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental\Environments\env_small_room"/>
+				<AuxBus Id="3877888880" Name="env_large_room" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental\Environments\env_large_room"/>
+				<AuxBus Id="4102571502" Name="env_medium_room" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Environmental\Environments\env_medium_room"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX" Hash="3389773285">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2390793602" Name="Fire_IceGem_Player" ObjectPath="\Events\Default Work Unit\Fire_IceGem_Player">
+					<IncludedMemoryFiles>
+						<File Id="198101" Language="SFX">
+							<ShortName>Gem_Recharge.wav</ShortName>
+							<Path>SFX\Gem_Recharge_1942EE23.wem</Path>
+						</File>
+						<File Id="15275673" Language="SFX">
+							<ShortName>Gems Breaking\Gem_Breaking-03.wav</ShortName>
+							<Path>SFX\Gems Breaking\Gem_Breaking-03_60BD055F.wem</Path>
+						</File>
+						<File Id="138762720" Language="SFX">
+							<ShortName>Gems Breaking\Gem_Breaking-04.wav</ShortName>
+							<Path>SFX\Gems Breaking\Gem_Breaking-04_E48C9732.wem</Path>
+						</File>
+						<File Id="152536550" Language="SFX">
+							<ShortName>Gems Breaking\Gem_Breaking-02.wav</ShortName>
+							<Path>SFX\Gems Breaking\Gem_Breaking-02_3276D17B.wem</Path>
+						</File>
+						<File Id="222884643" Language="SFX">
+							<ShortName>Gems Breaking\Gem_Breaking-01.wav</ShortName>
+							<Path>SFX\Gems Breaking\Gem_Breaking-01_BF4B1B7D.wem</Path>
+						</File>
+						<File Id="424049186" Language="SFX">
+							<ShortName>Gems Breaking\Gem_Breaking-03.wav</ShortName>
+							<Path>SFX\Gems Breaking\Gem_Breaking-03_28E96037.wem</Path>
+						</File>
+						<File Id="448116896" Language="SFX">
+							<ShortName>Gems Breaking\Gem_Breaking-01.wav</ShortName>
+							<Path>SFX\Gems Breaking\Gem_Breaking-01_F10C2B92.wem</Path>
+						</File>
+						<File Id="803525662" Language="SFX">
+							<ShortName>Gems Breaking\Gem_Breaking-02.wav</ShortName>
+							<Path>SFX\Gems Breaking\Gem_Breaking-02_C97908E4.wem</Path>
+						</File>
+						<File Id="828006734" Language="SFX">
+							<ShortName>Gems Breaking\Gem_Breaking-04.wav</ShortName>
+							<Path>SFX\Gems Breaking\Gem_Breaking-04_0C67D429.wem</Path>
+						</File>
+						<File Id="842736824" Language="SFX">
+							<ShortName>Gem_Recharge.wav</ShortName>
+							<Path>SFX\Gem_Recharge_5AABDAA0.wem</Path>
+						</File>
+						<File Id="1071749337" Language="SFX">
+							<ShortName>IceGem_Blast.wav</ShortName>
+							<Path>SFX\IceGem_Blast_F00644E1.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1894362767" Name="Foot_Player" ObjectPath="\Events\Default Work Unit\Foot_Player">
+					<IncludedMemoryFiles>
+						<File Id="14726578" Language="SFX">
+							<ShortName>Footsteps\Concrete\FS_Concrete_02.wav</ShortName>
+							<Path>SFX\Footsteps\Concrete\FS_Concrete_02_EDE324F7.wem</Path>
+						</File>
+						<File Id="79949442" Language="SFX">
+							<ShortName>Footsteps\Concrete\FS_Concrete_01.wav</ShortName>
+							<Path>SFX\Footsteps\Concrete\FS_Concrete_01_EDE324F7.wem</Path>
+						</File>
+						<File Id="87546151" Language="SFX">
+							<ShortName>Footsteps\Dirt\FS_Dirt_01.wav</ShortName>
+							<Path>SFX\Footsteps\Dirt\FS_Dirt_01_EDE324F7.wem</Path>
+						</File>
+						<File Id="148212188" Language="SFX">
+							<ShortName>Footsteps\Tile\FS_Tile_02.wav</ShortName>
+							<Path>SFX\Footsteps\Tile\FS_Tile_02_EDE324F7.wem</Path>
+						</File>
+						<File Id="287616262" Language="SFX">
+							<ShortName>Footsteps\Tile\FS_Tile_03.wav</ShortName>
+							<Path>SFX\Footsteps\Tile\FS_Tile_03_EDE324F7.wem</Path>
+						</File>
+						<File Id="359508632" Language="SFX">
+							<ShortName>Footsteps\Tile\FS_Tile_01.wav</ShortName>
+							<Path>SFX\Footsteps\Tile\FS_Tile_01_EDE324F7.wem</Path>
+						</File>
+						<File Id="417793194" Language="SFX">
+							<ShortName>Footsteps\Dirt\FS_Dirt_03.wav</ShortName>
+							<Path>SFX\Footsteps\Dirt\FS_Dirt_03_EDE324F7.wem</Path>
+						</File>
+						<File Id="516058495" Language="SFX">
+							<ShortName>Footsteps\Gravel\FS_Gravel_01.wav</ShortName>
+							<Path>SFX\Footsteps\Gravel\FS_Gravel_01_EDE324F7.wem</Path>
+						</File>
+						<File Id="517589665" Language="SFX">
+							<ShortName>Footsteps\Dirt\FS_Dirt_02.wav</ShortName>
+							<Path>SFX\Footsteps\Dirt\FS_Dirt_02_EDE324F7.wem</Path>
+						</File>
+						<File Id="763245074" Language="SFX">
+							<ShortName>Footsteps\Gravel\FS_Gravel_03.wav</ShortName>
+							<Path>SFX\Footsteps\Gravel\FS_Gravel_03_EDE324F7.wem</Path>
+						</File>
+						<File Id="849118029" Language="SFX">
+							<ShortName>Footsteps\Gravel\FS_Gravel_02.wav</ShortName>
+							<Path>SFX\Footsteps\Gravel\FS_Gravel_02_EDE324F7.wem</Path>
+						</File>
+						<File Id="1031012034" Language="SFX">
+							<ShortName>Footsteps\Concrete\FS_Concrete_03.wav</ShortName>
+							<Path>SFX\Footsteps\Concrete\FS_Concrete_03_EDE324F7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{916CDD5E-1FD9-4CEA-9BD0-6937AB022C12}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{38C39A06-87A9-4C62-8CCF-C77126CC8858}">
+							<Media>
+								<File Id="14726578"/>
+								<File Id="79949442"/>
+								<File Id="1031012034"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1202269F-DF1D-4D66-99C9-0C1849F58F7C}">
+							<Media>
+								<File Id="87546151"/>
+								<File Id="417793194"/>
+								<File Id="517589665"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{FFD4FD9D-8546-4D4F-95B6-24004327D10B}">
+							<Media>
+								<File Id="516058495"/>
+								<File Id="763245074"/>
+								<File Id="849118029"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{E5800031-22FF-48A0-B2C4-023BC6A68FFF}">
+							<Media>
+								<File Id="148212188"/>
+								<File Id="287616262"/>
+								<File Id="359508632"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="1758594367" Name="Map_Loaded" ObjectPath="\Events\Default Work Unit\Map_Loaded">
+					<IncludedMemoryFiles>
+						<File Id="634094459" Language="SFX">
+							<ShortName>Heartbeat.wav</ShortName>
+							<Path>SFX\Heartbeat_EB99AFE5.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="151362964" Name="PlayerHealth" ObjectPath="\Game Parameters\Default Work Unit\PlayerHealth"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="3865314626" Name="Material" ObjectPath="\Switches\Default Work Unit\Material">
+					<Switches>
+						<Switch Id="841620460" Name="Concrete" ObjectPath="\Switches\Default Work Unit\Material\Concrete"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Material\Grass"/>
+						<Switch Id="2185786256" Name="Gravel" ObjectPath="\Switches\Default Work Unit\Material\Gravel"/>
+						<Switch Id="2473969246" Name="Metal" ObjectPath="\Switches\Default Work Unit\Material\Metal"/>
+						<Switch Id="803837735" Name="Sand" ObjectPath="\Switches\Default Work Unit\Material\Sand"/>
+						<Switch Id="2637588553" Name="Tile" ObjectPath="\Switches\Default Work Unit\Material\Tile"/>
+						<Switch Id="2654748154" Name="Water" ObjectPath="\Switches\Default Work Unit\Material\Water"/>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Material\Wood"/>
+						<Switch Id="1216965916" Name="Stone" ObjectPath="\Switches\Default Work Unit\Material\Stone"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

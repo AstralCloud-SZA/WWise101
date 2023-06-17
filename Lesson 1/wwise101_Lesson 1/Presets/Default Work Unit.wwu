@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BA976316-8A6B-494F-996E-5F1E8DBA3E6D}" SchemaVersion="110">
+	<Presets>
+		<WorkUnit Name="Default Work Unit" ID="{BA976316-8A6B-494F-996E-5F1E8DBA3E6D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="IceGem_Blast" ID="{010BC228-FBB0-48CB-A15B-8AA3ECAF79A4}">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>-450</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{59DBED9D-F5D9-4346-A935-8874A9D721F6}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6C8D50DF-9332-4041-BBA0-0CC7628B7E9A}"/>
+						</Reference>
+					</ReferenceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</Presets>
+</WwiseDocument>
